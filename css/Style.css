@@ -1,0 +1,17 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: Calibri, sans-serif;
+    font-size: 14pt;
+}
+
+/* ENCABEZADO ---------------------*/
+header{
+    position: absolute;
+    background-image: url("../img/encabezado.png");
+    background-color: #000;
+    background-repeat: no-repeat;
+    width: 100%;
+    top: 0px;
+    bottom: 0px;
+}
